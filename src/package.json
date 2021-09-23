@@ -1,6 +1,6 @@
 {
     "name": "@res0/nativescript-facebook",
-    "version": "4.2.1",
+    "version": "4.2.2",
     "description": "NativeScript plugin, wrapper of native Facebook SDK for Android and iOS.",
     "nativescript": {
         "platforms": {
@@ -36,11 +36,11 @@
     ],
     "author": "NativeScript Team",
     "bugs": {
-        "url": "https://github.com/NativeScript/nativescript-facebook/issues"
+        "url": "https://github.com/res0/nativescript-facebook/issues"
     },
     "license": "Apache 2.0",
     "typings": "index.d.ts",
-    "homepage": "https://github.com/NativeScript/nativescript-facebook",
+    "homepage": "https://github.com/res0/nativescript-facebook",
     "readmeFilename": "README.md",
     "devDependencies": {
         "tns-core-modules": "^6.0.0",
